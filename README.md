@@ -8,3 +8,4 @@ First you need a linux-ubuntu 18.04 environment and download ns2
    set terminal qt (if error, change 'qt' to 'gif')
    plot "cwnd-Reno.tr" notitle with lines
    
+![TCP-Reno-wnd](https://user-images.githubusercontent.com/74367200/174436037-70000cbf-fc4b-44d4-8b4e-f354776ed691.jpg)
